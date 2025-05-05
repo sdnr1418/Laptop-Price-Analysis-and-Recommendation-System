@@ -6,39 +6,39 @@ This project uses a dataset of laptops and their specifications to analyze trend
 
 The notebook contains the following key sections:
 
-Data Cleaning: Handles missing values, standardizes formats (e.g., RAM, storage), and encodes categorical variables.
+- Data Cleaning: Handles missing values, standardizes formats (e.g., RAM, storage), and encodes categorical variables.
 
-Exploratory Data Analysis (EDA): Uses visualization tools like seaborn and matplotlib to discover patterns in pricing based on brand, CPU, RAM, etc.
+- Exploratory Data Analysis (EDA): Uses visualization tools like seaborn and matplotlib to discover patterns in pricing based on brand, CPU, RAM, etc.
 
-Feature Engineering: Extracts useful information such as processor type, storage size, and combines categorical features for better predictions.
+- Feature Engineering: Extracts useful information such as processor type, storage size, and combines categorical features for better predictions.
 
-Price Prediction Model: Builds regression models (Linear Regression, Random Forest, etc.) to predict laptop prices based on specs.
+- Price Prediction Model: Builds regression models (Linear Regression, Random Forest, etc.) to predict laptop prices based on specs.
 
-Value for Money Score: Introduces a metric to evaluate whether a laptop is a good deal compared to others.
+- Value for Money Score: Introduces a metric to evaluate whether a laptop is a good deal compared to others.
 
-Recommendation System: Suggests laptops to users based on their budget and preferences using filtering and score-based ranking.
+- Recommendation System: Suggests laptops to users based on their budget and preferences using filtering and score-based ranking.
 
 
 🛠️ Technologies Used
 
-Python 
+- Python 
 
-Pandas, NumPy
+- Pandas, NumPy
 
-Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 
 💡 Use Cases
 
-Consumers: Get recommendations for laptops that match your budget and specs.
+- Consumers: Get recommendations for laptops that match your budget and specs.
 
-Retailers: Understand market pricing trends to optimize inventory.
+- Retailers: Understand market pricing trends to optimize inventory.
 
-Data Scientists: Learn how to handle real-world data for regression and recommendation tasks.
+- Data Scientists: Learn how to handle real-world data for regression and recommendation tasks.
 
 
 🚀 How to Run
