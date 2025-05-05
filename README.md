@@ -1,6 +1,7 @@
 Laptop Price Analysis and Recommendation System
 This project uses a dataset of laptops and their specifications to analyze trends, predict prices, and help consumers optimize their purchasing decisions. It is ideal for data science enthusiasts who want to explore EDA, regression modeling, feature engineering, and consumer recommendation systems.
 
+
 📊 Project Overview
 
 The notebook contains the following key sections:
@@ -17,6 +18,7 @@ Value for Money Score: Introduces a metric to evaluate whether a laptop is a goo
 
 Recommendation System: Suggests laptops to users based on their budget and preferences using filtering and score-based ranking.
 
+
 🛠️ Technologies Used
 
 Python 
@@ -29,6 +31,7 @@ Scikit-learn
 
 Jupyter Notebook
 
+
 💡 Use Cases
 
 Consumers: Get recommendations for laptops that match your budget and specs.
@@ -36,6 +39,7 @@ Consumers: Get recommendations for laptops that match your budget and specs.
 Retailers: Understand market pricing trends to optimize inventory.
 
 Data Scientists: Learn how to handle real-world data for regression and recommendation tasks.
+
 
 🚀 How to Run
 Clone this repository.
