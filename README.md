@@ -38,6 +38,6 @@ Data Scientists: Learn how to handle real-world data for regression and recommen
 Clone this repository.
 ```bash
 https://github.com/sdnr1418/Laptop-Price-Analysis-and-Recommendation-System.git
-
+```
 
 Ensure you have all dependencies installed: pip install pandas numpy matplotlib seaborn scikit-learn
